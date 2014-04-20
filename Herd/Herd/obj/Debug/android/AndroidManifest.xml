@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="Herd.Herd">
-  <uses-sdk android:minSdkVersion="8" />
+  <uses-sdk android:minSdkVersion="15" />
   <application android:label="Herd" android:name="mono.android.app.Application" android:debuggable="true">
     <activity android:label="Herd" android:name="herd.MainActivity" />
     <activity android:noHistory="true" android:theme="@style/Theme.Splash" android:name="herd.SplashActivity">

@@ -16,6 +16,7 @@ public final class R {
     }
     public static final class id {
         public static final int myButton=0x7f060000;
+        public static final int seekBar1=0x7f060001;
     }
     public static final class layout {
         public static final int main=0x7f030000;
