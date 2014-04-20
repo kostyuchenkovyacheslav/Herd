@@ -1,0 +1,2 @@
+Herd.MainActivity;herd.MainActivity
+Herd.SplashActivity;herd.SplashActivity

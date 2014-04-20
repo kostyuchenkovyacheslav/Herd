@@ -1,0 +1,15 @@
+C:\Users\Isaland\Documents\Projects\Herd\Herd\bin\Debug\Herd.dll
+C:\Users\Isaland\Documents\Projects\Herd\Herd\bin\Debug\Herd.pdb
+C:\Users\Isaland\Documents\Projects\Herd\Herd\bin\Debug\Herd.dll.mdb
+C:\Users\Isaland\Documents\Projects\Herd\Herd\bin\Debug\Herd.Herd.apk
+C:\Users\Isaland\Documents\Projects\Herd\Herd\bin\Debug\Herd.Herd-Signed.apk
+C:\Users\Isaland\Documents\Projects\Herd\Herd\obj\Debug\Herd.dll
+C:\Users\Isaland\Documents\Projects\Herd\Herd\obj\Debug\Herd.pdb
+C:\Users\Isaland\Documents\Projects\Herd\Herd\obj\Debug\android\bin\Herd.Herd.apk
+C:\Users\Isaland\Documents\Projects\Herd\Herd\obj\Debug\res\layout\main.xml
+C:\Users\Isaland\Documents\Projects\Herd\Herd\obj\Debug\res\values\strings.xml
+C:\Users\Isaland\Documents\Projects\Herd\Herd\obj\Debug\res\drawable\icon.png
+C:\Users\Isaland\Documents\Projects\Herd\Herd\obj\Debug\res\drawable\splash.png
+C:\Users\Isaland\Documents\Projects\Herd\Herd\obj\Debug\res\values\styles.xml
+C:\Users\Isaland\Documents\Projects\Herd\Herd\obj\Debug\R.cs.flag
+C:\Users\Isaland\Documents\Projects\Herd\Herd\obj\Debug\uploadflags.txt
