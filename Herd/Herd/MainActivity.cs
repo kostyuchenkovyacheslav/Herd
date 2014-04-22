@@ -19,7 +19,7 @@
 
 			// Set our view from the "main" layout resource
 			SetContentView (Resource.Layout.Main);
-
+			// slava 11111
 			// Get our button from the layout resource,
 			// and attach an event to it
 			Button button = FindViewById<Button> (Resource.Id.myButton);
