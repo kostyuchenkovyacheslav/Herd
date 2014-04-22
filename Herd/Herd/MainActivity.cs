@@ -24,6 +24,7 @@
 			// and attach an event to it
 			Button button = FindViewById<Button> (Resource.Id.myButton);
 			SeekBar seekBar = FindViewById<SeekBar> (Resource.Id.seekBar1); // just for test
+			// just for test VKO >>
 			button.Click += delegate {
 				button.Text = string.Format ("{0} clicks!", count++);
 			
