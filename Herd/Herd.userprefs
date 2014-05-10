@@ -1,13 +1,43 @@
-﻿<Properties GitUserInfo="UsingGIT">
+<Properties GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Herd\MainActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Herd\SplashScreen.cs">
     <Files>
+<<<<<<< HEAD
       <File FileName="Herd\MainActivity.cs" Line="15" Column="3" />
+=======
+<<<<<<< Upstream, based on origin/master
+<<<<<<< HEAD
+      <File FileName="Herd\MainActivity.cs" Line="8" Column="23" />
+=======
+      <File FileName="Herd\MainActivity.cs" Line="1" Column="1" />
+>>>>>>> cbb9b45 New class LocalDeviceHandler added, function GetDeviceUID created in it.
+      <File FileName="Herd\SplashScreen.cs" Line="1" Column="1" />
+=======
+      <File FileName="Herd\MainActivity.cs" Line="16" Column="2" />
+      <File FileName="Herd\SplashScreen.cs" Line="21" Column="1" />
+>>>>>>> Stash
+>>>>>>> 0de43495f5ae1ef7b4f5d7cd2953a9854b301adb
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+<<<<<<< HEAD
   <MonoDevelop.Ide.ItemProperties.Herd MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
 </Properties>
+=======
+<<<<<<< Upstream, based on origin/master
+<<<<<<< HEAD
+  <MonoDevelop.Ide.ItemProperties.Herd MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" AndroidDeviceId-Debug="emulator-5554" />
+</Properties>
+// test
+=======
+  <MonoDevelop.Ide.ItemProperties.Herd MonoForAntroid.PreferredDevice="Nexus 4" AndroidDeviceId-Debug="TA8830O0VW" />
+</Properties>
+>>>>>>> Stash
+=======
+  <MonoDevelop.Ide.ItemProperties.Herd MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
+</Properties>
+>>>>>>> cbb9b45 New class LocalDeviceHandler added, function GetDeviceUID created in it.
+>>>>>>> 0de43495f5ae1ef7b4f5d7cd2953a9854b301adb
