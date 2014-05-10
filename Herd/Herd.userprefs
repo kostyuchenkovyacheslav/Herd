@@ -2,24 +2,12 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Herd\MainActivity.cs">
     <Files>
-<<<<<<< HEAD
-      <File FileName="Herd\MainActivity.cs" Line="8" Column="23" />
-      <File FileName="Herd\SplashScreen.cs" Line="1" Column="1" />
-=======
-      <File FileName="Herd\MainActivity.cs" Line="16" Column="2" />
-      <File FileName="Herd\SplashScreen.cs" Line="21" Column="1" />
->>>>>>> Stash
+      <File FileName="Herd\MainActivity.cs" Line="15" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-<<<<<<< HEAD
-  <MonoDevelop.Ide.ItemProperties.Herd MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" AndroidDeviceId-Debug="emulator-5554" />
+  <MonoDevelop.Ide.ItemProperties.Herd MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
 </Properties>
-// test
-=======
-  <MonoDevelop.Ide.ItemProperties.Herd MonoForAntroid.PreferredDevice="Nexus 4" AndroidDeviceId-Debug="TA8830O0VW" />
-</Properties>
->>>>>>> Stash
