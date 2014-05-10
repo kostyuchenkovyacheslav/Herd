@@ -2,4 +2,7 @@
 <resources>
 	<string name="hello">Hello World, Click Me!</string>
 	<string name="app_name">Herd</string>
+	<string name="drink">Drink</string>
+	<string name="no2">No. 2</string>
+	<string name="no1">No. 1</string>
 </resources>

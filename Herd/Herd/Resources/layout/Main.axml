@@ -2,14 +2,49 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="fill_parent"
-    android:layout_height="fill_parent">
-    <Button
-        android:id="@+id/myButton"
-        android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ff000000"
+    android:weightSum="1.0">
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/hello" />
-    <SeekBar
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/seekBar1" />
+        android:id="@+id/MainMenu">
+        <Button
+            android:text="Создать стадо"
+            android:layout_width="match_parent"
+            android:id="@+id/AddHerd"
+            android:layout_height="150px"
+            android:fitsSystemWindows="false"
+            android:background="@drawable/AddHerd"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
+            android:autoText="true" />
+        <Button
+            android:text="Подключиться к стаду"
+            android:layout_width="match_parent"
+            android:layout_height="150px"
+            android:id="@+id/ConnectHerd"
+            android:background="@drawable/ConnectHerd"
+            android:layout_marginTop="10px"
+            android:fitsSystemWindows="false"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px" />
+        <Button
+            android:text="Настройки"
+            android:layout_width="match_parent"
+            android:layout_height="150px"
+            android:id="@+id/Settings"
+            android:background="@drawable/Settings"
+            android:layout_marginTop="10px"
+            android:fitsSystemWindows="false"
+            android:layout_marginBottom="10px"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px" />
+    </LinearLayout>
 </LinearLayout>
